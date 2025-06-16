@@ -82,7 +82,10 @@ In the next phase, we will:
 
 [View Script](https://github.com/kiran-regmi/rbac-iam-project/blob/main/app.py)
 
-  
+## ▶️ How to Run the Dashboard
+From the terminal:
+![Screen Shot 2025-06-16 at 6 10 53 PM](https://github.com/user-attachments/assets/b35808e8-4d12-46ba-a561-2660fbfeacff)
+
 
 
 
