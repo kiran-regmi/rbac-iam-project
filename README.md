@@ -1,10 +1,17 @@
-# 🔐 RBAC “Identity & Access Management - Access Control""
+# 🔐 RBAC + ABAC Access Control
 **In this project,** we will:
 * Manages User Identites
 * Defines Roles and Entitlements
 * Enforces Access Policies (RBAC/ABAC)
 * Detects Privilege Escalation
 * Logs Access Events
+
+## 📌 Project Features
+- ✅ Role-Based & Attribute-Based Access Control (RBAC + ABAC)
+- 🧩 Role-to-Entitlement Mapping
+- 🚩 Toxic Combination Detection (Segregation of Duties)
+- ⚠️ Excessive Privilege Audit
+- 📊 Streamlit Dashboard for real-time simulation & visibility 
 
 ## 🧱 Tech Stack:
 * Python & Pandas
@@ -13,8 +20,9 @@
 * SQLite or CSV (user directory)
 
 ## ✅ Phase 1: Setup & Identity Directory  
-### 🔹 Step 1: Project Structure
-![Screen Shot 2025-06-16 at 12 28 38 PM](https://github.com/user-attachments/assets/35544925-d786-4eb3-9741-2a13fac55164)
+
+### 🔹 Step 1: Project Folder Structure
+![Screen Shot 2025-06-16 at 6 14 28 PM](https://github.com/user-attachments/assets/551bab56-4d71-486f-9767-64e6ada15bad)
 
 ### 🔹 Step 2: Identity Directory (users.csv)
       - Path: data/users.csv
