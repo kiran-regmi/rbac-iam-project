@@ -50,8 +50,33 @@ In this phase, we will:
 
 ![Screen Shot 2025-06-16 at 2 37 08 PM](https://github.com/user-attachments/assets/a1090e43-6a2c-41ba-b4aa-b2dea0b81ae7)
 
+### 📌 Optional Enhancements
+* Log every request and result to a CSV **(access_logs.csv)**
+* Accept input via command-line or dashboard
 
-      
+## 🚀 Phase 3 Preview: Privilege Audit & Toxic Combinations
+In the next phase, we will:
+* Build a script to **identify users with high-risk combinations**
+* Flag users with **excessive or unusual access**
+* Create a compliance-ready **access audit report**
+
+### 🔹 Step 1: Define Toxic Combinations (optional file or inline)
+       - path: data/toxic_combinations.json
+![Screen Shot 2025-06-16 at 2 49 30 PM](https://github.com/user-attachments/assets/fea8037d-5c54-4f14-b8fc-17371eeff01b)
+![Screen Shot 2025-06-16 at 2 57 36 PM](https://github.com/user-attachments/assets/d14ddb89-324e-416a-8c51-ead4ccef77a5)
+**// these are examples of Segregation of Duties (SoD) violations.**
+
+### 🔹 Step 2: Create the Script
+       - path: scripts/privilege_audit.py
+
+       
+
+
+
+       
+       
+
+  
   
 
 
