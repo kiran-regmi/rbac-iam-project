@@ -74,7 +74,11 @@ In the next phase, we will:
 ### 📄 Audit Output (CSV)
 ![Screen Shot 2025-06-16 at 5 30 04 PM](https://github.com/user-attachments/assets/fe920abd-3940-4a63-a7f2-c8597b9056c7)
 
-       
+## ✅ Phase 4 - IAM Dashboard
+In this phase, we will use Stremlit that shows:
+* User access by role and department
+* Toxic combo violations
+* Access request tester, based on **access_checker.py**
 
 
 
