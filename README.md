@@ -63,8 +63,8 @@ In the next phase, we will:
 
 ### 🔹 Step 1: Define Toxic Combinations (optional file or inline)
        - path: data/toxic_combinations.json
-![Screen Shot 2025-06-16 at 2 49 30 PM](https://github.com/user-attachments/assets/fea8037d-5c54-4f14-b8fc-17371eeff01b)
-![Screen Shot 2025-06-16 at 2 57 36 PM](https://github.com/user-attachments/assets/d14ddb89-324e-416a-8c51-ead4ccef77a5)
+![Screen Shot 2025-06-16 at 5 44 39 PM](https://github.com/user-attachments/assets/9efb2bbf-0667-4aa7-8a20-89691799ca06)
+
 **// these are examples of Segregation of Duties (SoD) violations.**
 
 ### 🔹 Step 2: Create the Script
