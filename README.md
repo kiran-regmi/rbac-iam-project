@@ -80,7 +80,8 @@ In the next phase, we will:
 * 🔍 Live Access Request Tester
         - path: dashboard/app.py
 
-View Script  
+[View Script](https://github.com/kiran-regmi/rbac-iam-project/blob/main/app.py)
+
   
 
 
