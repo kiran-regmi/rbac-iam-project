@@ -20,9 +20,10 @@
 
       - Path: data/users.csv
 
-U001,jdoe,HR_Analyst,HR
-U002,asmith,IT_Admin,IT
-U003,mbrown,Finance_Clerk,Finance
-U004,twilson,Marketing_Lead,Marketing
+![Screen Shot 2025-06-16 at 1 33 37 PM](https://github.com/user-attachments/assets/21e115dd-c58f-4c67-9426-9ca404299518)
 
-![Screen Shot 2025-06-16 at 12 47 47 PM](https://github.com/user-attachments/assets/32777472-64b9-4c70-9707-0672b423e5d9)
+### 🔹 Step 3: Role-to-Entitlement Mapping (roles.csv)
+       - Path: data/roles.csv
+![Screen Shot 2025-06-16 at 1 36 22 PM](https://github.com/user-attachments/assets/0f7aafd5-1797-44be-8e2f-2fbe4e15eefa)
+
+
