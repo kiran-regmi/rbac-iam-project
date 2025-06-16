@@ -20,10 +20,17 @@
 
       - Path: data/users.csv
 
-![Screen Shot 2025-06-16 at 1 33 37 PM](https://github.com/user-attachments/assets/21e115dd-c58f-4c67-9426-9ca404299518)
+![Screen Shot 2025-06-16 at 1 42 59 PM](https://github.com/user-attachments/assets/5260a6ba-b8fd-4a78-bbc8-d409b3928762)
+
 
 ### 🔹 Step 3: Role-to-Entitlement Mapping (roles.csv)
        - Path: data/roles.csv
 ![Screen Shot 2025-06-16 at 1 36 22 PM](https://github.com/user-attachments/assets/0f7aafd5-1797-44be-8e2f-2fbe4e15eefa)
+
+### 🔹 Step 4: Access Policy Definitions (policies.json)
+      - Path: data/policies.json
+      
+![Screen Shot 2025-06-16 at 1 50 36 PM](https://github.com/user-attachments/assets/5212d1fd-222f-4ff6-9d91-f381d8d30d32)
+
 
 
