@@ -21,7 +21,6 @@
 
 ![Screen Shot 2025-06-16 at 1 42 59 PM](https://github.com/user-attachments/assets/5260a6ba-b8fd-4a78-bbc8-d409b3928762)
 
-
 ### 🔹 Step 3: Role-to-Entitlement Mapping (roles.csv)
        - Path: data/roles.csv
 ![Screen Shot 2025-06-16 at 1 36 22 PM](https://github.com/user-attachments/assets/0f7aafd5-1797-44be-8e2f-2fbe4e15eefa)
