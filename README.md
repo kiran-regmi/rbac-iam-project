@@ -59,6 +59,7 @@ In the next phase, we will:
 * Build a script to **identify users with high-risk combinations**
 * Flag users with **excessive or unusual access**
 * Create a compliance-ready **access audit report**
+* Detects **toxic combinations** (eg. Create_Users + Modify_Access)
 
 ### 🔹 Step 1: Define Toxic Combinations (optional file or inline)
        - path: data/toxic_combinations.json
@@ -68,6 +69,10 @@ In the next phase, we will:
 
 ### 🔹 Step 2: Create the Script
        - path: scripts/privilege_audit.py
+[View Script](https://github.com/kiran-regmi/rbac-iam-project/blob/main/privilege_audit.py)
+
+### 📄 Audit Output (CSV)
+![Screen Shot 2025-06-16 at 5 30 04 PM](https://github.com/user-attachments/assets/fe920abd-3940-4a63-a7f2-c8597b9056c7)
 
        
 
