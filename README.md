@@ -47,6 +47,10 @@ In this phase, we will:
 ![Screen Shot 2025-06-16 at 2 31 09 PM](https://github.com/user-attachments/assets/e1f8e4ee-2515-4100-9cbd-dbe010609027)
 ![Screen Shot 2025-06-16 at 2 31 31 PM](https://github.com/user-attachments/assets/9f6d6737-fd11-4b30-b305-068c0b5aba9a)
 
+### ✅ Sample Output:
+
+![Screen Shot 2025-06-16 at 2 37 08 PM](https://github.com/user-attachments/assets/a1090e43-6a2c-41ba-b4aa-b2dea0b81ae7)
+
 
       
   
