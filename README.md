@@ -41,7 +41,7 @@ In this phase, we will:
 ### 🔹 Step 1: Create the Script
       - Path: scripts/access_checker.py
 
-[View Script](https://drive.google.com/drive/folders/1xvorU3J_t73qvjk3Jh6UhNaanHxHcdIi)
+[View Script](https://github.com/kiran-regmi/rbac-iam-project/blob/main/access_checker.py)
 
 ![Screen Shot 2025-06-16 at 2 31 09 PM](https://github.com/user-attachments/assets/e1f8e4ee-2515-4100-9cbd-dbe010609027)
 ![Screen Shot 2025-06-16 at 2 31 31 PM](https://github.com/user-attachments/assets/9f6d6737-fd11-4b30-b305-068c0b5aba9a)
