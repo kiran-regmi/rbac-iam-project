@@ -12,7 +12,7 @@
 * Streamlit (Dashborad)
 * SQLite or CSV (user directory)
 
-### ✅ Phase 1: Setup & Identity Directory  
+## ✅ Phase 1: Setup & Identity Directory  
 ### 🔹 Step 1: Project Structure
 ![Screen Shot 2025-06-16 at 12 28 38 PM](https://github.com/user-attachments/assets/35544925-d786-4eb3-9741-2a13fac55164)
 
@@ -31,6 +31,18 @@
       - Path: data/policies.json
       
 ![Screen Shot 2025-06-16 at 1 50 36 PM](https://github.com/user-attachments/assets/5212d1fd-222f-4ff6-9d91-f381d8d30d32)
+
+## ✅ Phase 2: Access Control Logic
+### 🎯 Goal:
+In this phase, we will:
+* Load user and role data
+* Maps users -> roles -> entitlements
+* Evaluates requests using policy rules
+* Returs Allow or Deny
+
+### 🔹 Step 1: Create the Script
+      - Path: scripts/access_checker.py
+  
 
 
 
