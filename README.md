@@ -6,6 +6,13 @@
 * Detects Privilege Escalation
 * Logs Access Events
 
+**🛡️ Skills Demonstrated**
+* Identity & Access Management (IAM)
+* Python scripting for policy enforcement
+* Entitlement auditing & toxic pair detection
+* Streamlit dashboard creation
+* Access review simulation
+
 ## 📌 Project Features
 - ✅ Role-Based & Attribute-Based Access Control (RBAC + ABAC)
 - 🧩 Role-to-Entitlement Mapping
@@ -23,6 +30,11 @@
 
 ### 🔹 Step 1: Project Folder Structure
 ![Screen Shot 2025-06-16 at 6 14 28 PM](https://github.com/user-attachments/assets/551bab56-4d71-486f-9767-64e6ada15bad)
+
+- data/ -> User, Role, and Policy daga files
+- scripts/ -> Python access logic & auditing tools
+- dashboard/ -> Streamlit IAM vishual dashboard
+- images/ -> dashboard screenshots (optional)
 
 ### 🔹 Step 2: Identity Directory (users.csv)
       - Path: data/users.csv
